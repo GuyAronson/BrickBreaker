@@ -126,7 +126,7 @@ public class Level4 implements LevelInformation {
 
     @Override
     public int numberOfBlocksToRemove() {
-        return AMOUNT_OF_BLOCKS / 3;
+        return AMOUNT_OF_BLOCKS;
     }
 
     @Override
