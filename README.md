@@ -10,7 +10,7 @@ The code is divided to packages, each contains different code files.
 This package contains of course the classes and the files that runs the game.
 * "observer" package represent an observer design pattern, in this package there are classes for removing elements and counting them etc.
 
-Pictures:
+# Pictures:
 
 ![image](https://user-images.githubusercontent.com/83305443/187039982-c03485e7-985e-4c00-b2ec-d00daf555ff1.png)
 
